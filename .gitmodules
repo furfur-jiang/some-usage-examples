@@ -7,3 +7,6 @@
 [submodule "qiankun_test"]
 	path = qiankun_test
 	url = https://github.com/furfur-jiang/qiankun_test.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/furfur-jiang/cli.git
