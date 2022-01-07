@@ -1,3 +1,6 @@
 [submodule "AbortControllerTest"]
 	path = AbortControllerTest
 	url = https://github.com/furfur-jiang/AbortControllerTest.git
+[submodule "iframeTest"]
+	path = iframeTest
+	url = https://github.com/furfur-jiang/iframeTest.git
