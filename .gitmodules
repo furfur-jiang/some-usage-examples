@@ -13,3 +13,6 @@
 [submodule "fur-design"]
 	path = fur-design
 	url = https://github.com/furfur-jiang/fur-design.git
+[submodule "webpack_loader"]
+	path = webpack_loader
+	url = https://github.com/furfur-jiang/webpack_loader.git
