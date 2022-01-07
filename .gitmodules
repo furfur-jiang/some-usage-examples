@@ -4,3 +4,6 @@
 [submodule "iframeTest"]
 	path = iframeTest
 	url = https://github.com/furfur-jiang/iframeTest.git
+[submodule "qiankun_test"]
+	path = qiankun_test
+	url = https://github.com/furfur-jiang/qiankun_test.git
