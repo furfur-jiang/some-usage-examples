@@ -10,3 +10,6 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/furfur-jiang/cli.git
+[submodule "fur-design"]
+	path = fur-design
+	url = https://github.com/furfur-jiang/fur-design.git
